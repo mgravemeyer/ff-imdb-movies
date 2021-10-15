@@ -1,3 +1,3 @@
-# FF IMDb MOVIES
+# FF IMDb Movies
 
 ## Application for a successful movie night 🎉
